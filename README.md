@@ -11,7 +11,6 @@ Cd YOUR_REPO_NAME
 2. Install packages required by the project
 Pip install Streamlit pypdf groq
 3. Launch the Streamlit application
-```bash
 Streamlit run app.py
 4. Access the application
 The application should launch at `http://localhost:8501`.
